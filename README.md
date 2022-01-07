@@ -8,8 +8,8 @@
 
 Projenin amacı:
 	
-	Önceden verilen bigrams ve Trigramslara göre metinde geçen bu ngramsların frekansını bulmak ve öklid mesafesi ile dil tespiti yapmaktır.
-	Proje ödevinin açıklandığı pdf teki yönergeler kullanılarak kodlar yazılmıştır.
+Önceden verilen bigrams ve Trigramslara göre metinde geçen bu ngramsların frekansını bulmak ve öklid mesafesi ile dil tespiti yapmaktır.
+Proje ödevinin açıklandığı pdf teki yönergeler kullanılarak kodlar yazılmıştır.
 
 
 ### Projeyi Yapanlar:
